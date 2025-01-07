@@ -1,4 +1,4 @@
-## Hi 👋 I'm Roxana Tipo Frontend Developer
+## Hi 👋 I'm Roxana Tipo, Frontend Developer
 I am skilled in HTML, CSS, JavaScript and diferent frameworks.  I have collaborated with teams to develop and maintain web interfaces that deliver an enhanced user experience across multiple browsers.
 
 
